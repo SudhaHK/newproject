@@ -3,4 +3,5 @@
 
 
 this is my first command
-my chnage
+my changes
+my second changes
